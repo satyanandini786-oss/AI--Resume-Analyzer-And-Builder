@@ -1,0 +1,21 @@
+job_title,question,category
+Data Analyst,What is the difference between WHERE and HAVING in SQL?,Technical
+Data Analyst,How would you handle missing data in a dataset?,Technical
+Data Analyst,Walk me through a dashboard you built and the insight it drove.,Behavioral
+Data Scientist,Explain the bias-variance tradeoff.,Technical
+Data Scientist,What is the difference between bagging and boosting?,Technical
+Data Scientist,Describe a project where your model didn't perform well. What did you do?,Behavioral
+Business Analyst,How do you gather requirements from stakeholders?,Behavioral
+Business Analyst,What KPIs would you track for an e-commerce business?,Technical
+Python Developer,What is the difference between a list and a tuple?,Technical
+Python Developer,Explain decorators in Python.,Technical
+ML Engineer,How do you handle overfitting in a model?,Technical
+ML Engineer,Explain the difference between precision and recall.,Technical
+BI Developer,What is the difference between Power BI and Tableau?,Technical
+BI Developer,Explain DAX and give an example measure.,Technical
+Data Engineer,What is the difference between ETL and ELT?,Technical
+Data Engineer,How would you design a data pipeline for daily sales data?,Technical
+Frontend Developer,What is the virtual DOM in React?,Technical
+Backend Developer,How do you design a REST API?,Technical
+Data Science Intern,What is the difference between supervised and unsupervised learning?,Technical
+Data Science Intern,Tell me about a project from your coursework.,Behavioral

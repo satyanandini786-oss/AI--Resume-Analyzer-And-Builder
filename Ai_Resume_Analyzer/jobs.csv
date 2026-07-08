@@ -1,0 +1,11 @@
+job_title,required_skills,company_type,experience_level
+Data Analyst,"python,sql,excel,tableau,power bi,statistics",MNC,Entry
+Data Scientist,"python,machine learning,statistics,sql,pandas,numpy,scikit-learn",MNC,Entry
+Business Analyst,"sql,excel,power bi,communication,tableau",MNC,Entry
+Python Developer,"python,django,flask,sql,git,api",MNC,Entry
+ML Engineer,"python,machine learning,deep learning,tensorflow,pytorch,sql",MNC,Mid
+BI Developer,"power bi,tableau,sql,dax,data modeling",MNC,Entry
+Data Engineer,"python,sql,etl,spark,airflow,cloud",MNC,Mid
+Frontend Developer,"html,css,javascript,react,git",MNC,Entry
+Backend Developer,"python,java,sql,api,git,dbms",MNC,Entry
+Data Science Intern,"python,sql,pandas,numpy,matplotlib,statistics",MNC,Intern
